@@ -1,6 +1,9 @@
 # Autonomous Driving/ Self Driving Car with Generative Adversarial Networks and Reinforcement Learning
 <img src="https://github.com/SKKSaikia/self-drive/blob/master/img/a-map.jpg" height=250px><a> </a><img src="https://github.com/SKKSaikia/self-drive/blob/master/img/sense.jpg" height=250px><br /><img src="https://github.com/SKKSaikia/self-drive/blob/master/img/waymo.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/self-drive/blob/master/img/ai-maps.jpg" height=200px><a> </a>
 
+This repository is for keeping track of my 7th semester (Final Year) Undergraduate Thesis project work at Assam Engineering College under Prof Mridul Jyoti Roy
+
+Team Members - @Subhajit135 @imzndp
 
 🔮🚓 I have taken 3 courses for self-driving / autonomous car :
 
