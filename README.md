@@ -15,7 +15,7 @@ Audit - [How to Simulate a Self-Driving Car](https://youtu.be/EaY5QiZwSP4), [Pyt
 ## Resources:
 
 ### Papers:
-- [D-GAN Autonomous Driving using Generative](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/D-GAN%20Autonomous%20Driving%20using%20Generative.pdf)
+- [D-GAN Autonomous Driving using Generative Adversarial Networks](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/D-GAN%20Autonomous%20Driving%20using%20Generative.pdf)
 - [DeepRoad GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/DeepRoad%20GAN-Based%20Metamorphic%20Testing%20and%20Input%20Validation%20Framework%20for%20Autonomous%20Driving%20Systems.pdf)
 - [SAD-GAN Synthetic Autonomous Driving using Generative Adversarial Networks](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/SAD-GAN%20Synthetic%20Autonomous%20Driving%20using%20Generative%20Adversarial%20Networks.pdf)
 - [Yes, we GAN Applying Adversarial Techniques for Autonomous](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/Yes%2C%20we%20GAN%20Applying%20Adversarial%20Techniques%20for%20Autonomous.pdf)
