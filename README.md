@@ -2,9 +2,7 @@
 <img src="https://github.com/SKKSaikia/self-drive/blob/master/img/a-map.jpg" height=250px><a> </a><img src="https://github.com/SKKSaikia/self-drive/blob/master/img/sense.jpg" height=250px><br /><img src="https://github.com/SKKSaikia/self-drive/blob/master/img/waymo.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/self-drive/blob/master/img/ai-maps.jpg" height=200px><a> </a>
 
 
-🔮🚓Udacity's Self Driving Car Nanodegree
-
-I have taken 3 courses for self-driving / autonomous car :
+🔮🚓 I have taken 3 courses for self-driving / autonomous car :
 
 1. [Intro to self-driving car](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) + [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
