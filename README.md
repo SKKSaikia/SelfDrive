@@ -21,4 +21,4 @@ Audit - [How to Simulate a Self-Driving Car](https://youtu.be/EaY5QiZwSP4), [Pyt
 - [Yes, we GAN Applying Adversarial Techniques for Autonomous](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/Yes%2C%20we%20GAN%20Applying%20Adversarial%20Techniques%20for%20Autonomous.pdf)
 
 ### Articles
-- [Quora - Ian Goodfellow - Applications of GANs in self-driving car](https://www.quora.com/What-could-be-the-applications-of-generative-adversarial-networks-GANs-in-autonomous-vehicles-if-any)
+- [Quora - Ian Goodfellow - Applications of GANs in Autonomous driving](https://www.quora.com/What-could-be-the-applications-of-generative-adversarial-networks-GANs-in-autonomous-vehicles-if-any)
