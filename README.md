@@ -6,7 +6,11 @@
 
 1. [Intro to self-driving car](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) + [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
+<img src="https://github.com/SKKSaikia/SelfDrive/blob/master/img/ud_self_car.png" height=300px>
+
 2. [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+
+<img src="https://github.com/SKKSaikia/SelfDrive/blob/master/img/car-red.png" height=300px>
 
 3. [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/)
 
