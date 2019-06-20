@@ -67,3 +67,5 @@ Team Members - @Subhajit135 @imzndp
 - [Udacity Playlist - Self Driving Car](https://www.youtube.com/watch?v=lz8nrj44ifk&list=PLAwxTw4SYaPnVS9D8cjAdXItr_4f1LPrg)
 - [How to Simulate a Self-Driving Car](https://youtu.be/EaY5QiZwSP4)
 - [Python Plays: Grand Theft Auto V - sentdex](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a&index=1)
+- [Stanford Seminar: Self-Driving Cars for Everyone](https://youtu.be/GrUZ7k8H60M)
+- [Stanford Seminar - Autonomous Driving: AI's Biggest Endeavor](https://youtu.be/gkchL1AiZ_8)
