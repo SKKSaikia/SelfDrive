@@ -5,7 +5,7 @@ This repository is for keeping track of my 7th semester (Final Year) Undergradua
 
 Team Members - @Subhajit135 @imzndp
 
-### Topic - Autonomous Driving GANs for Self Driving car with Reinforcemnt Learning
+### Topic - Autonomous Driving GANs for Self Driving Car with Reinforcemnt Learning
 
 🚓 These are the 3  prime courses for Self-Driving car 🔮:
 
@@ -37,11 +37,11 @@ Team Members - @Subhajit135 @imzndp
 
 <img src="https://github.com/SKKSaikia/SelfDrive/blob/master/img/car-red.png" height=300px>
 
-Details about <b>MIT: DL for Self driving Car</b> is [here](https://github.com/SKKSaikia/MIT_6S094_Self_Drive).
+   Details about <b>MIT: DL for Self driving Car</b> is [here](https://github.com/SKKSaikia/MIT_6S094_Self_Drive).
 
 3. [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/)
 
-This course is amazing as well, gives hands on Experience with the various necessary tech stack for Autonomous Driving.
+   This course is amazing as well, gives hands on Experience with the various necessary tech stack for Autonomous Driving.
 
 # PROJECT WORK
 # ----------------------------------------------------
