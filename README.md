@@ -60,6 +60,7 @@ This course is amazing as well, gives hands on Experience with the various neces
 
 ### Articles
 - [Quora - Ian Goodfellow - Applications of GANs in Autonomous driving](https://www.quora.com/What-could-be-the-applications-of-generative-adversarial-networks-GANs-in-autonomous-vehicles-if-any)
+- [Medium articles - Self Driving Car](https://medium.com/search?q=self%20driving%20cars)
 
 ### YouTube
 - [The Challenge of Building a Self-Driving Car](https://youtu.be/P8aTDusU7dw)
