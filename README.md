@@ -56,6 +56,7 @@ This course is amazing as well, gives hands on Experience with the various neces
 - [DeepRoad GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/DeepRoad%20GAN-Based%20Metamorphic%20Testing%20and%20Input%20Validation%20Framework%20for%20Autonomous%20Driving%20Systems.pdf)
 - [SAD-GAN Synthetic Autonomous Driving using Generative Adversarial Networks](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/SAD-GAN%20Synthetic%20Autonomous%20Driving%20using%20Generative%20Adversarial%20Networks.pdf)
 - [Yes, we GAN Applying Adversarial Techniques for Autonomous](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/Yes%2C%20we%20GAN%20Applying%20Adversarial%20Techniques%20for%20Autonomous.pdf)
+- [Building a Winning Self-Driving Car in Six Months](https://github.com/SKKSaikia/SelfDrive/blob/master/papers/Building%20a%20Winning%20Self-Driving%20Car%20in%20Six%20Months.pdf)
 
 ### Articles
 - [Quora - Ian Goodfellow - Applications of GANs in Autonomous driving](https://www.quora.com/What-could-be-the-applications-of-generative-adversarial-networks-GANs-in-autonomous-vehicles-if-any)
