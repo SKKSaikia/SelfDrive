@@ -43,8 +43,6 @@ Details about <b>MIT: DL for Self driving Car</b> is [here](https://github.com/S
 
 This course is amazing as well, gives hands on Experience with the various necessary tech stack for Autonomous Driving.
 
-Audit - [How to Simulate a Self-Driving Car](https://youtu.be/EaY5QiZwSP4), [Python Plays: Grand Theft Auto V - sentdex](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a&index=1)
-
 # PROJECT WORK
 # ----------------------------------------------------
 
@@ -61,3 +59,9 @@ Audit - [How to Simulate a Self-Driving Car](https://youtu.be/EaY5QiZwSP4), [Pyt
 
 ### Articles
 - [Quora - Ian Goodfellow - Applications of GANs in Autonomous driving](https://www.quora.com/What-could-be-the-applications-of-generative-adversarial-networks-GANs-in-autonomous-vehicles-if-any)
+
+### YouTube
+- [The Challenge of Building a Self-Driving Car](https://youtu.be/P8aTDusU7dw)
+- [Udacity Playlist - Self Driving Car](https://www.youtube.com/watch?v=lz8nrj44ifk&list=PLAwxTw4SYaPnVS9D8cjAdXItr_4f1LPrg)
+- [How to Simulate a Self-Driving Car](https://youtu.be/EaY5QiZwSP4)
+- [Python Plays: Grand Theft Auto V - sentdex](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a&index=1)
