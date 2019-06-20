@@ -5,6 +5,10 @@ This repository is for keeping track of my 7th semester (Final Year) Undergradua
 
 Team Members - @Subhajit135 @imzndp
 
+<b> Project Idea:</b>
+
+
+
 ### Topic - Autonomous Driving GANs for Self Driving Car with Reinforcemnt Learning
 
 🚓 These are the 3  prime courses for Self-Driving car 🔮:
@@ -41,7 +45,7 @@ Team Members - @Subhajit135 @imzndp
 
 3. [The Complete Self-Driving Car Course - Applied Deep Learning](https://www.udemy.com/applied-deep-learningtm-the-complete-self-driving-car-course/)
 
-   This course is amazing as well, gives hands on Experience with the various necessary tech stack for Autonomous Driving.
+   This course is amazing, gives hands on Experience with the various necessary tech stack for Autonomous Driving.
 
 # PROJECT WORK
 # ----------------------------------------------------
