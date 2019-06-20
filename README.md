@@ -7,9 +7,28 @@ Team Members - @Subhajit135 @imzndp
 
 ### Topic - Autonomous Driving GANs for Self Driving car with Reinforcemnt Learning
 
-🔮🚓 These are the 3  prime courses for Self-Driving car :
+🚓 These are the 3  prime courses for Self-Driving car 🔮:
 
 1. [Intro to self-driving car](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) + [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+<b> Intro to Self Driving Car: </b><br />
+<b>Course 1:</b> Bayesian Thinking <br />
+<b>Course 2:</b> Working with Matrices <br />
+<b>Course 3:</b> C++ Basics <br />
+<b>Course 4:</b> Performance Programming in C++ <br />
+<b>Course 5:</b> Navigating Complex Data Structures <br />
+<b>Course 6:</b> Visualizing Calculus and Controls <br />
+<b>Course 7:</b> Machine Learning and Computer Vision <br />
+
+<b> Self Driving Car Engineer: </b><br />
+<b>Course 1:</b> Introduction <br />
+<b>Course 2:</b> Computer Vision <br />
+<b>Course 3:</b> Deep Learning <br />
+<b>Course 4:</b> Sensor Fusion <br />
+<b>Course 5:</b> Localization <br />
+<b>Course 6:</b> Path Planning <br />
+<b>Course 7:</b> Control <br />
+<b>Course 8:</b> System Integration <br />
+
 
 <img src="https://github.com/SKKSaikia/SelfDrive/blob/master/img/ud_self_car.png" height=300px>
 
