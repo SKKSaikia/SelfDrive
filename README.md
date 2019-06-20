@@ -76,3 +76,7 @@ Team Members - @Subhajit135 @imzndp
 - [Python Plays: Grand Theft Auto V - sentdex](https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a&index=1)
 - [Stanford Seminar: Self-Driving Cars for Everyone](https://youtu.be/GrUZ7k8H60M)
 - [Stanford Seminar - Autonomous Driving: AI's Biggest Endeavor](https://youtu.be/gkchL1AiZ_8)
+
+To Learn more about Generative Models and Reinforcement Learning, Follow my other repositories:
+
+* [Stanford CS236 : Deep Generative Models](https://github.com/SKKSaikia/CS236_DGM), [Stanford CS234: Reinforcement Learning](https://github.com/SKKSaikia/CS234_RL)
