@@ -79,4 +79,4 @@ Team Members - @Subhajit135 @imzndp
 
 To Learn more about Generative Models and Reinforcement Learning, Follow my other repositories:
 
-* [Stanford CS236 : Deep Generative Models](https://github.com/SKKSaikia/CS236_DGM), [Stanford CS234: Reinforcement Learning](https://github.com/SKKSaikia/CS234_RL), [Udacity - Deep Reinforcement Learning Nanodegree](https://github.com/SKKSaikia/DeepRLNanoD)
+* [Stanford CS236 : Deep Generative Models](https://github.com/SKKSaikia/CS236_DGM), [Stanford CS234: Reinforcement Learning](https://github.com/SKKSaikia/CS234_RL), [Udacity - Deep Reinforcement Learning Nanodegree](https://github.com/SKKSaikia/DeepRLNanoD), [AI @ Stanford & Udacity](https://skksaikia.github.io/AI/)
