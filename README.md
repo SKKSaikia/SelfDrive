@@ -4,7 +4,7 @@
 
 <img src="https://github.com/SKKSaikia/self-drive/blob/master/img/a-map.jpg" height=250px><a> </a><img src="https://github.com/SKKSaikia/self-drive/blob/master/img/sense.jpg" height=250px><br /><img src="https://github.com/SKKSaikia/self-drive/blob/master/img/waymo.png" height=200px><a> </a><img src="https://github.com/SKKSaikia/self-drive/blob/master/img/ai-maps.jpg" height=200px><a> </a>
 
-This repository is for keeping track of my 7th semester (Final Year) Undergraduate Thesis project work at Assam Engineering College under Prof Mridul Jyoti Roy
+This repository is for keeping track of my 7th semester (Final Year) Undergraduate Thesis work at Assam Engineering College under Prof Mridul Jyoti Roy
 
 Team Members - @Subhajit135 @imzndp
 
