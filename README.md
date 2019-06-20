@@ -12,7 +12,7 @@ Team Members - @Subhajit135 @imzndp
 
 
 
-### Topic - Autonomous Driving GANs for Self Driving Car with Reinforcemnt Learning
+### Topic - Autonomous Driving/ Self Driving Car with Generative Adversarial Networks and Reinforcement Learning
 
 🚓 These are the 3  prime courses for Self-Driving car 🔮:
 
